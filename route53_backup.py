@@ -132,4 +132,4 @@ def handler(event, context):
 
 
 if __name__ == "__main__":
-    handler(event={}, ontext=None)
+    handler(event={}, context=None)
