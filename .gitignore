@@ -1,0 +1,7 @@
+*.tfstate
+*.backup
+outpu*.tfstate
+*.backup
+output
+.terraform
+*.zip
